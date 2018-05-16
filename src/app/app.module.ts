@@ -15,7 +15,7 @@ import { ArticleService } from './article.service';
   ],
   declarations: [
         AppComponent,
-		ArticleComponent
+	ArticleComponent
   ],
   providers: [
         ArticleService
